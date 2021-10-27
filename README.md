@@ -1,2 +1,10 @@
 # Titanic Survivor Prediction Logistic Regression Kaggle Project
- This is the classical Kaggle project using Titanic Dataset  
+ This is the classical Kaggle 
+ Titanic Dataset project done using Logistic Regression.
+ Tech Stack Used:
+ -> Python
+ -> Numpy
+ -> Pandas
+ -> Seaborn
+ -> Matplotlib
+ -> Sklearn
